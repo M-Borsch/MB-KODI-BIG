@@ -1,6 +1,6 @@
 # MB-KODI-ADDONS
 Repository of useful Addons for Kodi
-> [!NOTE] These are simply pointers to other publicly available repositories
+> [!NOTE] These are simply pointers to publicly available repositories as wel as containing a zip with sample files to custmize your Kodi install.
 
 # MB-KODI - Useful Kodi Addons
 ![icon](https://github.com/M-Borsch/MB-KODI/blob/main/icon.png) 
