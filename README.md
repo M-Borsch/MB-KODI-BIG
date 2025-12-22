@@ -18,7 +18,7 @@ Latest Version of the MB-KODI Repo :sunglasses:
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of the MB-KODI-SUPPORt-FILES Zip File
 
-Latest Version of the MB-KODI-SUPPORT-FILES Zip File :sunglasses:
+Latest Version of the MB-KODI-SUPPORT-FILES Zip File - Kodi Support Files (Not a Repository!) :sunglasses:
 - This version includes:
     1 - A sample favourites.xml file and 
     2 - A sample background file
@@ -75,13 +75,6 @@ Latest Version of the Diggz Repo :sunglasses:
 - This version includes the latest version of the "Free99" Video Addon
 -  <a href="https://nebulous42069.github.io/diggz/">Download the diggz 23 repo (zip file)</a> (Latest)
 ------------------------------------------------------------------------------------------------------------------
-Kodi Support Files (Not a Repository!)
-You do not install this like a repo - instead save this to a local directory on your Kodi device and contained within the zip you have:
-1 - A sample favourites.xml file
-2 - A sample backgroud file
--  <a href="https://nebulous42069.github.io/diggz/">Download the diggz 23 repo (zip file)</a> (Latest)
-MB-KODI-SUPPORT-FILES.zip
-
 > [!IMPORTANT]
 > MB-KODI Terms and Conditions / Dislaimer
 
