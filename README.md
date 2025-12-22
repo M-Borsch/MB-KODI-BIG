@@ -5,14 +5,27 @@ List of useful 3rd party Repositories for Kodi
 # MB-KODI - Useful Kodi Addons
 ![icon](https://github.com/M-Borsch/MB-KODI/blob/main/icon.png) 
 
-# Repository of MB-KODI-ADDONS Collection of Useful Addons via Other Publically Available Repositories
+# List of MB-KODI-ADDONS - A Collection of Useful Addons via Other Publically Available Repositories
 
 - The repo release webpage is located at https://m-borsch.github.io/MB-KODI-ADDONS/
-
+- Simply add a KODI source pointing to https://m-borsch.github.io/MB-KODI-ADDONS/ then <B>"install from zip"</B> each Addon
+----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of the MB-KODI Repository
 
 Latest Version of the MB-KODI Repo :sunglasses:
-- Simply add a KODI source pointing to https://m-borsch.github.io/MB-KODI-ADDONS/ then <B>"install from zip"</B> each Addon
+- This version includes the latest version of the "Insert/Swap Favourites" Program Addon
+-  <a href="https://m-borsch.github.io/MB-KODI">Download the latest MB-KODI (zip file)</a> (Latest)
+----------------------------------------------------------------------------------------------------------
+> (Latest) - This is the latest version of the MB-KODI-SUPPORt-FILES Zip File
+
+Latest Version of the MB-KODI-SUPPORT-FILES Zip File :sunglasses:
+- This version includes:
+    1 - A sample favouristes.xml file
+    2 - A sample background file
+-  Copy the MB-KODI-SUPPORT-FILES.zip file to your local odi installation and you can then extract and use these files.
+
+----------------------------------------------------------------------------------------------------------
+3rd Party Repositories
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of Slyguy
 
@@ -62,6 +75,13 @@ Latest Version of the Diggz Repo :sunglasses:
 - This version includes the latest version of the "Free99" Video Addon
 -  <a href="https://nebulous42069.github.io/diggz/">Download the diggz 23 repo (zip file)</a> (Latest)
 ------------------------------------------------------------------------------------------------------------------
+Kodi Support Files (Not a Repository!)
+You do not install this like a repo - instead save this to a local directory on your Kodi device and contained within the zip you have:
+1 - A sample favourites.xml file
+2 - A sample backgroud file
+-  <a href="https://nebulous42069.github.io/diggz/">Download the diggz 23 repo (zip file)</a> (Latest)
+MB-KODI-SUPPORT-FILES.zip
+
 > [!IMPORTANT]
 > MB-KODI Terms and Conditions / Dislaimer
 
